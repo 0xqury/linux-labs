@@ -25,4 +25,4 @@
 ---
 
 ## 🔗 External Links | 외부 링크
-📒 Notion Notes | 노션 노트: [바로가기])(https://www.notion.so/1c6740684c3c8095a16ef2caddb81202)
+- 📒 Notion Summary | 노션 정리: [바로가기](https://www.notion.so/1c6740684c3c8095a16ef2caddb81202)
