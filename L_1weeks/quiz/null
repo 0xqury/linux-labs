@@ -1,0 +1,76 @@
+find: ‘/root’: Permission denied
+find: ‘/etc/multipath’: Permission denied
+find: ‘/etc/ssl/private’: Permission denied
+find: ‘/etc/polkit-1/localauthority’: Permission denied
+find: ‘/lost+found’: Permission denied
+find: ‘/mnt/d/System Volume Information’: Permission denied
+find: ‘/mnt/wslg/run/user/1000/inaccessible’: Permission denied
+find: File system loop detected; ‘/mnt/wslg/distro’ is part of the same file system loop as ‘/’.
+find: ‘/mnt/c/$Recycle.Bin/S-1-5-18’: Permission denied
+find: ‘/mnt/c/DumpStack.log.tmp’: Permission denied
+find: ‘/mnt/c/hiberfil.sys’: Permission denied
+find: ‘/mnt/c/pagefile.sys’: Permission denied
+find: ‘/mnt/c/PerfLogs’: Permission denied
+find: ‘/mnt/c/Program Files/WindowsApps’: Permission denied
+find: ‘/mnt/c/ProgramData/Microsoft/Crypto/PCPKSP/WindowsAIK’: Permission denied
+find: ‘/mnt/c/ProgramData/Microsoft/Crypto/SystemKeys’: Permission denied
+find: ‘/mnt/c/ProgramData/Microsoft/Diagnosis’: Permission denied
+find: ‘/mnt/c/ProgramData/Microsoft/Network/Downloader’: Permission denied
+find: ‘/mnt/c/ProgramData/Microsoft/Provisioning/AssetCache’: Permission denied
+find: ‘/mnt/c/ProgramData/Microsoft/Search/Data’: Permission denied
+find: ‘/mnt/c/ProgramData/Microsoft/SmsRouter’: Permission denied
+find: ‘/mnt/c/ProgramData/Microsoft/Windows/AppRepository’: Permission denied
+find: ‘/mnt/c/ProgramData/Microsoft/Windows/CapabilityAccessManager’: Permission denied
+find: ‘/mnt/c/ProgramData/Microsoft/Windows/Hyper-V’: Permission denied
+find: ‘/mnt/c/ProgramData/Microsoft/Windows/LfSvc’: Permission denied
+find: ‘/mnt/c/ProgramData/Microsoft/Windows/Models’: Permission denied
+find: ‘/mnt/c/ProgramData/Microsoft/Windows/PackagedEventProviders’: Permission denied
+find: ‘/mnt/c/ProgramData/Microsoft/Windows/Power Efficiency Diagnostics’: Permission denied
+find: ‘/mnt/c/ProgramData/Microsoft/Windows/SystemData’: Permission denied
+find: ‘/mnt/c/ProgramData/Microsoft/Windows/WER/ReportArchive/AppCrash_Hwp.exe_4c8730a6981de16d2d45b61823e0be1b110f7b9_38e0104b_5f0beb44-5175-4483-8b63-11d7ba15f465’: Permission denied
+find: ‘/mnt/c/ProgramData/Microsoft/Windows/WER/ReportArchive/AppCrash_IntelAudioServic_49bb998ef6afb50df809a97e53bb7208bf892ab_01453536_81d181d0-282f-4bfd-b35c-6a2b648d97ec’: Permission denied
+find: ‘/mnt/c/ProgramData/Microsoft/Windows/WER/ReportArchive/AppCrash_Windows Installe_f6c56b96b94e29f19e15ea07c915e9191fee40_2e244be8_fc957564-0de9-45d7-8ff0-6cd01dcb925d’: Permission denied
+find: ‘/mnt/c/ProgramData/Microsoft/Windows/WER/ReportArchive/Critical_10.0.26100.2032__518645671e5c8a06820df8472b415fa41e96a88_00000000_df7044a7-bf36-405e-9b2d-2c382f795fba’: Permission denied
+find: ‘/mnt/c/ProgramData/Microsoft/Windows/WER/ReportArchive/Critical_10.0.26100.3189__dea640196e8938ef9720c9b012c40e19ec47970_00000000_8f26a782-32e4-41ce-8de2-4f0922603040’: Permission denied
+find: ‘/mnt/c/ProgramData/Microsoft/Windows/WER/ReportArchive/Critical_10.0.26100.3321__6e458fd0e1d29f9bd15e573ee78d5ba6e04edb_00000000_df0e70d3-13b6-4a77-b2f5-d04623d03d5d’: Permission denied
+find: ‘/mnt/c/ProgramData/Microsoft/Windows/WER/ReportArchive/NonCritical_Update;ScanForUp_122e42241b8e84d550ad445f3b85c33732bbbf1d_00000000_aeed0d61-bbbc-4974-8768-659cd22d120e’: Permission denied
+find: ‘/mnt/c/ProgramData/Microsoft/Windows/WER/ReportArchive/NonCritical_Update;ScanForUp_1fab77b9bdd48437a3b4e2cf9d491e307ce1f3b5_00000000_22e95ba9-a6ee-49ae-9085-a6d7bdc16511’: Permission denied
+find: ‘/mnt/c/ProgramData/Microsoft/Windows/WER/ReportArchive/NonCritical_Update;ScanForUp_1fab77b9bdd48437a3b4e2cf9d491e307ce1f3b5_00000000_3f23adb9-611a-47c0-b040-11510941a33d’: Permission denied
+find: ‘/mnt/c/ProgramData/Microsoft/Windows/WER/ReportArchive/NonCritical_Update;ScanForUp_1fab77b9bdd48437a3b4e2cf9d491e307ce1f3b5_00000000_7da092aa-b0d4-4cf9-afb3-cbae221a3b88’: Permission denied
+find: ‘/mnt/c/ProgramData/Microsoft/Windows/WER/ReportArchive/NonCritical_Update;ScanForUp_1fab77b9bdd48437a3b4e2cf9d491e307ce1f3b5_00000000_8e09d1cd-8beb-4ebb-b1d1-d9310ef6c44c’: Permission denied
+find: ‘/mnt/c/ProgramData/Microsoft/Windows/WER/ReportArchive/NonCritical_Update;ScanForUp_1fab77b9bdd48437a3b4e2cf9d491e307ce1f3b5_00000000_b5613453-c207-45a1-8ad8-70eb95a3694a’: Permission denied
+find: ‘/mnt/c/ProgramData/Microsoft/Windows/WER/ReportArchive/NonCritical_Update;ScanForUp_1fab77b9bdd48437a3b4e2cf9d491e307ce1f3b5_00000000_e18e19a1-bb3e-4016-8a13-aacea710dc57’: Permission denied
+find: ‘/mnt/c/ProgramData/Microsoft/Windows/WER/ReportArchive/NonCritical_Update;ScanForUp_1fab77b9bdd48437a3b4e2cf9d491e307ce1f3b5_00000000_f5c1e12d-bd20-4859-b350-a0cd78cf49bd’: Permission denied
+find: ‘/mnt/c/ProgramData/Microsoft/Windows/WER/ReportArchive/NonCritical_Update;ScanForUp_2d5378880c559feead52c2463ee71d7c9d278_00000000_5bf73ba3-ac60-4f30-93d0-8aace2930161’: Permission denied
+find: ‘/mnt/c/ProgramData/Microsoft/Windows/WER/ReportArchive/NonCritical_Update;ScanForUp_2d5378880c559feead52c2463ee71d7c9d278_00000000_72d8935c-836d-4c00-b270-060a99cc4f39’: Permission denied
+find: ‘/mnt/c/ProgramData/Microsoft/Windows/WER/ReportArchive/NonCritical_Update;ScanForUp_2d5378880c559feead52c2463ee71d7c9d278_00000000_a0869c74-4eea-4268-b99e-bbb42905c1a3’: Permission denied
+find: ‘/mnt/c/ProgramData/Microsoft/Windows/WER/ReportArchive/NonCritical_Update;ScanForUp_2d5378880c559feead52c2463ee71d7c9d278_00000000_b9350b4d-374f-4caa-bd6a-6c5cb26cccf4’: Permission denied
+find: ‘/mnt/c/ProgramData/Microsoft/Windows/WER/ReportArchive/NonCritical_Update;ScanForUp_575b34231acd64f5f6918471b282f23cfe91efc1_00000000_1e19875f-5baf-4cbf-b75f-77f639adaeb4’: Permission denied
+find: ‘/mnt/c/ProgramData/Microsoft/Windows/WER/ReportArchive/NonCritical_Update;ScanForUp_89638baba688506ad7f745e26f5bcdb661cbcf7_00000000_16d02c26-81e8-4553-bf68-091da31092cc’: Permission denied
+find: ‘/mnt/c/ProgramData/Microsoft/Windows/WER/ReportArchive/NonCritical_Update;ScanForUp_89638baba688506ad7f745e26f5bcdb661cbcf7_00000000_3a598763-fd7a-4789-9bb0-05993a199f10’: Permission denied
+find: ‘/mnt/c/ProgramData/Microsoft/Windows/WER/ReportArchive/NonCritical_Update;ScanForUp_8f5567d4e6157ca49fbe7c3061255773525675c_00000000_1b1e779a-27b8-4e45-87d7-4457cc242f14’: Permission denied
+find: ‘/mnt/c/ProgramData/Microsoft/Windows/WER/ReportArchive/NonCritical_Update;ScanForUp_8f5567d4e6157ca49fbe7c3061255773525675c_00000000_627ad3c4-8e97-4d86-8d3c-806d10c40d33’: Permission denied
+find: ‘/mnt/c/ProgramData/Microsoft/Windows/WER/ReportArchive/NonCritical_Update;ScanForUp_8f5567d4e6157ca49fbe7c3061255773525675c_00000000_e9288240-9b37-406b-baaf-717d89558c4c’: Permission denied
+find: ‘/mnt/c/ProgramData/Microsoft/Windows/WER/ReportArchive/NonCritical_Update;ScanForUp_936132f54e1d75cd97fd3a628d9f4fe48470b7_00000000_82c3537c-1b8f-4939-8414-e9eac12dfa11’: Permission denied
+find: ‘/mnt/c/ProgramData/Microsoft/Windows/WER/ReportArchive/NonCritical_Update;ScanForUp_ebff3fde295a92772729dec7c4e19754f4f82b84_00000000_8683d17a-7e18-4961-bdcd-2d21e5bfe919’: Permission denied
+find: ‘/mnt/c/ProgramData/Microsoft/Windows/WER/ReportArchive/NonCritical_Update;_3596f6db8b4d26d64a3d90f9699dc6ab408f2ca4_00000000_d52296d2-261a-4e27-8c59-fc0fd45318ab’: Permission denied
+find: ‘/mnt/c/ProgramData/Microsoft/Windows/WER/ReportArchive/NonCritical_Update;_e3dd98ffee8f76169da11d53b7defd47959ebe6_00000000_60b8d034-c963-4632-ae3f-6f891eb7dbe7’: Permission denied
+find: ‘/mnt/c/ProgramData/Microsoft/Windows/WER/ReportArchive/NonCritical_Update;_e3dd98ffee8f76169da11d53b7defd47959ebe6_00000000_89ec6219-b24e-42c1-b9a1-4267788b9602’: Permission denied
+find: ‘/mnt/c/ProgramData/Microsoft/Windows/WER/ReportArchive/NonCritical_Update;_e3dd98ffee8f76169da11d53b7defd47959ebe6_00000000_c4162c81-4a3c-4fd6-a4c9-2c11738f156f’: Permission denied
+find: ‘/mnt/c/ProgramData/Microsoft/Windows/WER/ReportQueue/Kernel_193_a1ee7920ca39b3386f7edc6b29a8878e59e61b_00000000_98990487-8570-46a6-9377-86fdaa1ec724’: Permission denied
+find: ‘/mnt/c/ProgramData/Microsoft/Windows/wfp’: Permission denied
+find: ‘/mnt/c/ProgramData/Microsoft/Windows/WindowsApps’: Permission denied
+find: ‘/mnt/c/ProgramData/Microsoft/Windows/WSAIFabric’: Permission denied
+find: ‘/mnt/c/ProgramData/Microsoft/Windows Defender/Clean Store’: Permission denied
+find: ‘/mnt/c/ProgramData/Microsoft/Windows Defender/Features’: Permission denied
+find: ‘/mnt/c/ProgramData/Microsoft/Windows Defender/LocalCopy’: Permission denied
+find: ‘/mnt/c/ProgramData/Microsoft/Windows Defender/Network Inspection System’: Permission denied
+find: ‘/mnt/c/ProgramData/Microsoft/Windows Defender/Payloads’: Permission denied
+find: ‘/mnt/c/ProgramData/Microsoft/Windows Defender/Quarantine’: Permission denied
+find: ‘/mnt/c/ProgramData/Microsoft/Windows Defender/Scans’: Permission denied
+find: ‘/mnt/c/ProgramData/Microsoft/Windows Defender/Support’: Permission denied
+find: ‘/mnt/c/ProgramData/Packages’: Permission denied
+find: ‘/mnt/c/ProgramData/Samsung/SamsungUpdate3/data’: Permission denied
+find: ‘/mnt/c/ProgramData/VMware/VMware USB Arbitration Service’: Permission denied
+find: ‘/mnt/c/swapfile.sys’: Permission denied
+find: ‘/mnt/c/System Volume Information’: Permission denied
